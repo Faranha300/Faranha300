@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/fabrício-aranha-128a42220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-[![Spotify](novatorem-2ui8z86o2-faranha300.vercel.app/api/spotify)](https://open.spotify.com/user/3yp3kv7y1ei309vlza7ps1131)
+[![Spotify](https://novatorem-two-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/3yp3kv7y1ei309vlza7ps1131)
