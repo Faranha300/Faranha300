@@ -20,3 +20,7 @@
   <a href = "mailto:fabricioaranha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabrício-aranha-128a42220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+
+<a href="https://spotify-readme-faranha300.vercel.app/now-playing?open">
+    <img src="https://spotify-readme-faranha300.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
