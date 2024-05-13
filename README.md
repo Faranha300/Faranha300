@@ -23,6 +23,6 @@
  </div>
 
 &nbsp;<div align="center">
-  ### Listening now on Spotify 🎧
+  ### Listening on Spotify 🎧
   [![Spotify](https://novatorem-two-mocha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3yp3kv7y1ei309vlza7ps1131)
 </div>
