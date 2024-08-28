@@ -21,8 +21,3 @@
   <a href = "mailto:fabricioaranha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/faranha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-&nbsp;<div align="center">
-  ### Listening on Spotify 🎧
-  [![Spotify](https://novatorem-two-mocha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3yp3kv7y1ei309vlza7ps1131)
-</div>
