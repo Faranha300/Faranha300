@@ -1,11 +1,5 @@
 ## Welcome to my Github Profile, my name is Fabrício
 
-<div align="center">
-  <a href="https://github.com/Faranha300">
-  <img height="179em" src="https://github-readme-stats-faranha300.vercel.app/api?username=Faranha300&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats-faranha300.vercel.app/api/top-langs/?username=Faranha300&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <div align="center"> 
